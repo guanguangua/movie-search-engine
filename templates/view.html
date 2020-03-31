@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <script type="application/javascript">
+        var movie = {{ movie|tojson }};
+        var id = null;
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'view.js') }}"></script>
+    <style>
+        .fas.fa-edit:hover {
+            color: royalblue;
+        }
+        .fas.fa-edit{
+            position: relative;
+            top: 4px;
+            cursor: pointer
+        }
+        .fas.fa-trash-alt {
+            cursor: pointer
+        }
+        .fas.fa-trash-alt:hover {
+            color: orangered;
+        }
+        p[contenteditable]:focus {
+            -webkit-appearance: textfield;
+            -moz-appearance: textfield;
+        }
+        p {
+            white-space: pre-wrap
+        }
+    </style>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 text-center bg-light p-4">
+                <header class="h1 p-3">
+                    Data View & Edit
+                </header>
+            </div>
+        </div>
+    </div>
+    <div id="results-container" class="container-fluid">
+
+    </div>
+{% endblock %}

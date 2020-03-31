@@ -1,0 +1,639 @@
+[
+    {
+       "id": 0,
+        "title": "Star Shrek",
+        "release": "2001",
+        "genre": [
+            {
+                "genre": "Meme",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Comedy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Shrek Strikes Again!!!!",
+        "trailer": "https://www.youtube.com/embed/CwXOrWvPBPk",
+        "poster": "https://test69981.s3.amazonaws.com/eZrCO6d.jpg",
+        "deleted": false
+    },
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "release": "1994",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Misery and Stand By Me were the best adaptations up until this one, now you can add Shawshank to that list.\n\nThis is simply one of the best films ever made and I know I am not the first to say that and I certainly won't be the last. The standing on the IMDb is a true barometer of that. #3 as of this date and I'm sure it could be number 1. So I'll just skip all the normal praise of the film because we all know how great it is. But let me perhaps add that what I find so fascinating about Shawshank is that Stephen King wrote it.\n\nKing is one of the best writers in the world. Books like IT and the Castle Rock series are some of the greatest stories ever told. But his best adaptations are always done by the best directors. The Shining was brilliantly interpreted by Kubrick and of course the aforementioned Misery and Stand By Me are both by Rob Reiner. Now Frank Darabont comes onto the scene and makes arguably the best King film ever. He seems to understand what King wants to say and he conveys that beautifully.\n\nWhat makes this film one of the best ever made is the message it conveys. It is one of eternal hope. Andy Dufresne, played by Tim Robbins, has been sent to prison for a crime he did not commit. But he never loses hope. He never gives up his quest to become a free man again. His years of tenacity, patience and wits keep him not only sane, but it gives his mind and a spirit a will to live. This film has a different feel to it. There has never been anything like it before and I don't know if there will again.\n\nI'm not going to say any more about this film, it has already been said, but just suffice to say that I am glad that Forrest Gump won best picture in 94. I would have been equally glad if Pulp Fiction or Shawshank would have won. It is that good of a movie and one that will be appreciated for years to come.",
+        "trailer": "https://www.youtube.com/embed/6hB3S9bIaco",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "release": "1972",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "The godfather trilogy is an exclusive set of movies that will continue to live with humanity, every generation will see them to say, \"Oh that was 10 out of 10.\" If you watch them you will know that the world that lives inside the underworld is same as the one we live in except that people in underworld are so smart, in fact smartness is the only thing that can keep them there. Don Vito Caroleone's early life shown in part-II is very well done to show the Don in making, how a kid who couldn't even tell his name went on becoming a underworld don who keep most senators, judges and lawyers in his pocket. Meeting of don with the so call five families are among most impressive scenes.\n\nA saga that goes on for 9 continuous hours takes you around various walks in life of Mike (Don's younger son who become Don later), his school days, love life, personal life, family life, business life, political life and religious life. How all of these different roles Mike plays in his life and how intertwined these are.\n\nI enjoyed watching these movies so much, I wish I had seen them much before then I did. Its amazing to see how the Part-III was made 18 years later the part-I was made and everything looks so continuous if watch them together.\n\nI need not say much! The Godfather father trilogy been around for a while and everyone knows that they are great set of movies, its just the matter of when you actually get to see them.\n\nWatch them! Kudos to Francis Ford Coppola! -Vishy",
+        "trailer": "https://www.youtube.com/embed/sY1S34973zA",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 3,
+        "title": "The Godfather: Part II",
+        "release": "1974",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Francis Coppola and Mario Puzo continue their epic saga into the lives of the infamous Corleone family, which is headed by Michael Corleone (Al Pacino). It is a film which does better than its predessor, \"The Godfather\". The film flip-flops graciously and beautifully between Michael's struggle over the family business and the life of young Vito Corleone (Robert De Niro, in a brilliant, Oscar-winning performance) in his rise to power as well. Robert Duvall, Diane Keaton, Lee Strassberg, and John Cazale give excellent supporting performances. Carmine Coppola's and Nino Rota's score is a masterpiece of music. The movie is expertly filmed and the cinematography is superb.",
+        "trailer": "https://www.youtube.com/embed/9O1Iy9od7-A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,701,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 4,
+        "title": "The Dark Knight",
+        "release": "2008",
+        "genre": [
+            {
+                "genre": "Action",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Im just gonna start off by saying I LOVE this movie.Its one of my favorites of all time. I honestly cant think of too much wrong with this movie other than its a little long and Batmans by now infamous voice. But everything else is top notch. The acting,story,atmosphere,and actions scenes are all amazing. If you haven't seen this movie see it right now! I went into this not expecting to much but I came out blown away, I cant imagine any movie being much better. I'll just have to wait for The Dark Knight Rises to release to see if anything can be better. Until then, this stands as the best movie I've ever seen",
+        "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 5,
+        "title": "12 Angry Men",
+        "release": "1957",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This film is superb, in fact as Shakespeare once said \"Its the bees' knees\". The film captivates the audience from the beginning. Each of the twelve jurors are introduced to us as they are introduced to themselves. The characters are well draw out and individual, each with his own personality.\n\nThe tension of the characters draws the audience in from the start. We imagine that the case is open and shut, 11 me saying guilty and 1 not. We feel the discomfort of Henry Fonda as the other characters belittle and mock how he can see any reasonable doubt in the case. But we also share his victories and the enthusiasm as he proceeds to refute or add doubt to the arguments for guilty and are captivated and draw in as other jurors begin to see doubt in the proceedings.\n\nThe audience can also see the arguments for guilty and wonder if Fonda's character is correct in saying that he doubts. Yet they also feel the shame of the characters as he disproves that a previously sound theory is iron tight, joining his side as members of the jury do.\n\nOn top of this they are wonderfully woven in human elements such as the misconceptions that influence people and the growing tension between different characters. This is brought to life even more by the amazing performances, Fonda, Lee J Cobb and Joseph Sweeney are of particular note.\n\nI started watching this film on a bored relaxed laying about day but by the end i was on the edge of the seat with my hands on my knees feeling more tense than a politician on results day.\n\nHow a film should be made. Modern directors take note(thats ur telling off for the day) 10/10",
+        "trailer": "https://www.youtube.com/embed/_13J_9B5jEk",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 6,
+        "title": "Schindler's List",
+        "release": "1993",
+        "genre": [
+            {
+                "genre": "Biography",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "History",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This movie, Schindler's List, is hands-down without a doubt one of the greatest films I have ever had the pleasure of viewing. Regardless of how much praise I include in my review, I should still think it deserves more. Few movies are actually able to pull tears out of my stubborn eyes, and the two that come right to mind are this one, and It's a Wonderful Life. Schindler's List is a grim portrayal of events in the Holocaust, while at the same time actually bringing light to some of the humanity still there. I was embarrassed when I actually started clapping in that classroom where I first watched this movie. I'd recommend it to anybody and it remains in my top selection of movies. Outstanding.",
+        "trailer": "https://www.youtube.com/embed/gG22XNhtnoY",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 7,
+        "title": "Pulp Fiction",
+        "release": "1994",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Pulp Fiction may be the single best film ever made, and quite appropriately it is by one of the most creative directors of all time, Quentin Tarantino. This movie is amazing from the beginning definition of pulp to the end credits and boasts one of the best casts ever assembled with the likes of Bruce Willis, Samuel L. Jackson, John Travolta, Uma Thurman, Harvey Keitel, Tim Roth and Christopher Walken. The dialog is surprisingly humorous for this type of film, and I think that's what has made it so successful. Wrongfully denied the many Oscars it was nominated for, Pulp Fiction is by far the best film of the 90s and no Tarantino film has surpassed the quality of this movie (although Kill Bill came close). As far as I'm concerned this is the top film of all-time and definitely deserves a watch if you haven't seen it.",
+        "trailer": "https://www.youtube.com/embed/s7EdQ4FqbhY",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 8,
+        "title": "The Lord of the Rings: The Return of the King",
+        "release": "2003",
+        "genre": [
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Fantasy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Frodo and Sam continue their quest to destroy the ring, led by the untrustworthy Gollum. Meanwhile the rest of the Fellowship prepare for another battle to hold a human city against an onslaught of orcs.\n\nIf you check my other reviews you will note that I wasn't a massive fan of the first two films - I loved them, but was not blind to their faults. However, let me just lay my cards out here, I was totally blown away by this film. For the vast majority (and more of that later) the narrative flowed really well where the other two films had struggled to really keep consistent. Here the various strands work well together and, while characters have only brief times to tell stories, on the whole it manages it well. I got the feeling that the film really let rip - it knew this was the ending and it did feel that everything came together in a collection of noise and energy which really made it feel like the final part of a trilogy rather than just a stand alone film.\n\nThe one area where the film really stutters (and actually caused people to leave the cinema in annoying numbers) is ironically the place where Jackson is true to the book, and that's the final 20 minutes. There is a clear scene where the film ends, however it then runs for another 20 minutes - which is a mix of scenes that all fade out like they were the end. To Joe Public (ie me!) I would have been happy not to have all the loose ends tied up in the way the book does it - the film should have ended on a high (with the King being crowned etc) but instead it seems to crawl to an end in a way that is not in line with the momentum of the film (if not the whole trilogy!) This problem is minor on the grand scheme of things, but I would rather have left the cinema on my high than be made to wonder `when's this ending? Is this the end now? Oh, maybe this is it now?' - but I do understand why it was done this way.\n\nThe cast, as they have been all the way, are excellent. Wood's Frodo changes well during this film while Astin is touching in his portrayal of unerring friendship. Bloom and Rhys-Davis had less to do but came into their own during the battle scenes - adding both action and the odd comic touch (`that still counts as one' being accepted by the audience as a chance to break the tension). Mortensen is the title character and serves it well, with McKellen also continuing his strong role. I could list through the whole cast but I will stick with noting two things. Firstly, both Monaghan and Boyd had bigger and more meaningful roles and rose to them well. Secondly I continue with my belief from the second film that Serkis is the stand out actor of the trilogy. His Gollum is so much more than an effect - he is tragic, fearsome, hateful and funny. Praise of course goes to the special effects for making this character tell so much with an expression but to pretend that the work of the actor is secondary to the character (as opposed the look) is foolish. He deserved one for Two Towers so I hope an Oscar goes his way. It was a shame to not have screen time for Lee but the film works well without him and it was a brave move by the editors.\n\nThe special effects do not stand out - and that's a compliment. Even in state of the art movies of late I have been aware that I could be watching a video game. Here I only occasionally noticed that things were clear computer effects, even though the majority of the film was! This is how they SHOULD be used - not as a draw in their own right but as part of the film. Whether it be the massive battle scenes that are spectacular or the animated spider or just the fact that I forget that Gollum is only an effect, I cannot fault it's use of effects or the sheer visual feast that is this film.\n\nI have tried not to gush because there will be plenty of others to do that without me joining them, but it is hard to really fault this film. It is the strongest of the trilogy and brings it all together really well, it is an emotional event more than a film and, if Jackson needs 20 minutes of slow closure to finish it to his satisfaction then I can give him that in return for all the hours of wonderful cinema that he has given me.",
+        "trailer": "https://www.youtube.com/embed/JB7fjEtzrsk",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 9,
+        "title": "The Good, the Bad and the Ugly",
+        "release": "1966",
+        "genre": [
+            {
+                "genre": "Western",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "I wasn't sure if I was going to comment on this film because everything has already been said by the hundreds of other people who have posted their thoughts, but I decided that I should really put my two cents in since this is my favorite movie.\n\nThis film, in my opinion, is not only the greatest spaghetti western of all time. It is the greatest movie of all time. Period. Regardless of genre. I could probably watch it every day, and be perfectly happy doing so.\n\nThe music is perfection. The way the music drives this movie is absolutely amazing. The musical genius of Morricone and the incredible direction of Sergio Leone is a combination that will probably never be equaled. The theme song will forever be etched in your brain. In fact, it probably already is, even if you haven't seen the movie! The scene where Tuco runs through the graveyard with the song \"Ecstacy of Gold\" is pure poetry. And the showdown at the end with that great music- just incredible.\n\nThe story is riveting. There is not a single dull moment. The movie is long, but Leone's direction is so good that you will love the fact that you can enjoy this movie for three hours.\n\nLee Van Cleef is my favorite spaghetti western actor, and he is incredible as \"Angel Eyes.\" It is the part he was born to play. Eli Wallach is perfect as Tuco. He really shines in this movie. Some people say he steals the show, and I can see why they think so. Eastwood is excellent as \"Blondie,\" although I don't think Eastwood has as strong of a presence as Van Cleef (I know many will disagree, and that's OK because all three actors are superb in this film so why split hairs?).\n\nThis movie is hypnotic. It's operatic. It's sad. It's funny. It's gritty. It's violent. It's art. It's action. It's pure entertainment. The film is just so incredible on so many different levels that EVERYONE should see it, regardless of what kinds of movies they are into. And it's so cool that the greatest flick ever just happens to be a spaghetti western. If you haven't seen this movie, stop what you are doing, and go get it now!!",
+        "trailer": "https://www.youtube.com/embed/WCN5JJY_wiA",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 10,
+        "title": "Fight Club",
+        "release": "1999",
+        "genre": [
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Fight Club is a brash slap in the face of consumerism and the working dead. It questions reality. It is strikingly thought provoking and visually stimulating. The direction is incredibly brilliant. Director David Fincher (Aliens, Se7en and The Game) is at his finest here warping both space and time, dropping in things here and there to make things clear. Edward Norton is excellent as Jack, the narrator of the movie. He is a nerdy insomniac who catalog shops at Ikea and has a going nowhere job. Brad Pitt is dynamic as Tyler Durden, an anarchistic man who lives in a run-down abandoned house and makes and sells soap for a living. Helen Bonham Carter is also great as Marla Singer, the manic-depressive chain-smoking woman in both their lives. Her role is critical and she plays it well.\n\nThere has been some controversy about the violence in this film but it is not gratuitous violence, it is part of the story and serves it well. It is much less than what you would see in your average Hollywood blockbuster. This is actually an insightful film and in many ways similar to American Beauty, although this film is much more in your face about it's message. If you are squeamish, you may not want to see it. There are some very painful bloody scenes, but if you can stomach it, then check it out. There is also a huge twist in this film that almost rivals the twist at the end of The Sixth Sense. And I must admit, it is the twist in this film that made me really love it. The best audience for this film is men in their 20's or 30's, but anyone that can appreciate film as a modern art should like it. One of the best films of 1999.",
+        "trailer": "https://www.youtube.com/embed/qtRKdVHc-cE",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 11,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "release": "2001",
+        "genre": [
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Fantasy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "The first part of the Lord of the Rings trilogy, the Fellowship of the Rings opened the door to a whole new world for me. I'd never read any of Tolkien's books when I saw the film for the first time at the theatre and, now that I've read them, in retrospect I think being a neophyte to the mythology made my LOTR movie experience all the more miraculous.\n\nI loved The Two Towers and Return of the King almost as much as FOTR, but not quite, because seeing Fellowship for the first time was like taking a journey to a fabulous new place and meeting incredible new friends that you don't want to leave. I've never felt anything quite like what this epic evoked in me. It was akin to being a child again, with that tireless sense of wonder and enjoyment of each and every moment, maybe because as a child you are discovering your surroundings, and whatever age you are, when you watch the Fellowship of the Ring you are rendered in awe upon being introduced to the purity and beauty of Middle Earth and darkly enthralled by the majesty of Eisengard, Saruman, Sauron and all of their mighty malice. One of the things that makes this movie so special (and there are so many!) is that you fall in love not only with the \"good\" characters, but also with the \"evil\" ones. For example, Christopher Lee was amazing as Saruman, and I can't imagine the movie without him.\n\nSome films that might be comparable to the Lord of the Rings trilogy are: The Fifth Element, the Star Wars Trilogy parts IV, V and VI (forget the newer prequels), the Matrix trilogy (especially the first part), Interview with a Vampire, the Legend of Sleepy Hollow (with Johnny Depp), Logan's Run and The Island. They are all excellent movies and works of art that weave that movie magic that keeps you spellbound and entranced for the duration of their runtime.\n\nBut after seeing The Fellowship of the Ring, I knew I had found the movie by which I would judge all other movies. Based on J.R.R. Tolkien's beloved books, Peter Jackson has set a new standard in the industry of cinema, one that I honestly think has not and won't be surpassed, at least not in my lifetime, not even by PJ himself.\n\nIt is truly an instant classic that will stand the test of time and be loved by generations to come. God Bless Tolkien and Jackson and everyone involved in the conception and making of this film, for creating a world that is at my fingertips, only takes the touch of a button to go to whenever I want, and makes me forget everything else.\n\nThe LOTR Trilogy is undoubtedly MY precious, the non plus ultra of all movies!",
+        "trailer": "https://www.youtube.com/embed/V75dMMIW2B4",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 12,
+        "title": "Forrest Gump",
+        "release": "1994",
+        "genre": [
+            {
+                "genre": "Comedy",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Romance",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "I believe everyone has a right to their opinion about films or other topics. However from a lot of the comments I have read about this film, I do not think many got the gist of the message from the author and the film maker. This film is a great modern fable, a fable in the dictionary is defined as a brief fictitious story that teaches a moral. There are many morals defined in this film but foremost is integrity and a simple goodness.\n\nI have a half brother who grew up in the Southern U.S. and on one occasion we were discussing this film and he said he felt it portrayed Southerners as dimwitted. I disagreed with him and informed him that the author himself was a native Southerner. The setting is central to this story in that it lets the tale unfold tying in factual events with the fable before us.\n\nThe film is wonderfully directed by Robert Zemeckis, the film is his opus and is acted by a great cast on all levels. From the children who were Forrest Gump and Gump Jr. by Haley Joel Osment. Say what you want but I feel Tom Hanks deserved the Oscar award. Gary Sinise is synonymous with Lt.Dan whenever you hear those words. Sally Fields is the loving dutiful mother in her challenging situation. Mykelti Williamson as Bubba gives you a real sense in the story that Gump had a genuine friend, he moves you with his character. Words don't grasp the full performance of Robin Wright Penn as Jenny. Jennys' tenderness and pain are palpable as exhibited by Wright.\n\nI feel that much of Gumps' appeal is his downright sense of doing the right thing regardless of the people and situations around him and we see that in this film. That being the case maybe we all wish we could be just a little more like that, trying to maintain innate goodness and not the trade-offs we often make as we go down lifes highways.\n\nThe movie has it all too,drama,comedy and it challenges societal norms as well. Then there are the almost endless quotes from the movie that have slipped into everyday speech. They are too numerous to say at this point.One of the toppers for me in the movie is when Forrest is in a quandary about life and wondering as Lt.Dan said we all have a destiny and his Mom says it is where we are all just floating around like a feather in the wind. Forrest's character terms it very well with this quote,\"I think it is a little bit of both.\" From my experiences in life it does appear to be that way. So if you have not seen the movie,see it soon you are in for a real treat. If you did not like it, give it a try again and hopefully you will see it for the great story it is!",
+        "trailer": "https://www.youtube.com/embed/bLvqoHBptjg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 13,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "release": "1980",
+        "genre": [
+            {
+                "genre": "Action",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Fantasy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Congratulations have to go to line producer Gary Kurtz and director Irvin Kershner in pushing the production to out-perform A New Hope, even though the consequence was a film that came in massively over budget, and almost cost Lucas his hard fought independence from the Hollywood system.\n\nThe plot moves quickly, from an interesting script by Leigh Bracket and Larry Kasdan, focusing on exploring two key relationships. The first is the relationship between Han Solo and Leia Organa, which is touched upon in a New Hope, but is fleshed out more in this film. The other is the more central relationship between Darth Vader and Luke Skywalker. This relationship is also linked in to the main supporting character in this film, Yoda, who is fantastically well realised by the film crew and performed brilliantly by Frank Oz. There are other characters, but whereas C3P0 and R2D2 were a central part of the story in the previous film, they are more on the sidelines.\n\nWhat makes this film so great though is the involving and effective way the relationships operate within the broader story. The banter between Harrison Ford and Carrie Fisher is highly effective and amusing, operating through the classical love-hate relationship. One senses that Kershner, as a director of character driven films, worked very effectively with the actors and gave them the space to develop their characters which meant plenty of choices for the director in terms of their performances. The same goes for Mark Hamill's interaction with Yoda(Frank Oz). This is totally convincing and builds up the confrontation with Darth Vader very well. It was time well spent in getting these performances right. Kershner is very good at keeping the performance naturalistic, but reduces the level of broadness in the characters, making them more complex and interesting. Darth Vader benefits from this with scenes in the film that add to the mystique of the character. The confrontation with Luke Skywalker is riveting and dramatic and elevates the film above the level of its predecessor.\n\nTechnically the film is even more impressive than its predecessor. Credit has to go the Oscar nominated Art Direction team. John Barry, who had worked on the previous film, passed away during the production, but Norman Reynolds led the team superbly, with the excellent creations of Dagobah and Hoth, albeit Bespin in the original does feel a bit like a set, and the digital embellishments in the special edition were helpful in creating a bigger feel to those scenes. However, I was disappointed in the reworked scene with Palpatine in the special edition - while putting the excellent Ian McDiarmid was supporting continuity, to show him face on was, in my view an error and the reworked scene would have played much better with his face shrouded, or at the least partially obscured. The whole point of the scene was that the dialogue as strong enough without the need to ram an unsubtle visual at the audience.\n\nEditing is excellent, led by Star Wars veteran Paul Hirsch, but it is known that both George Lucas, and his then wife Marcia were also heavily involved in putting the film together. Peter Suschitzky's photography is more conventional and low key in approach than A New Hope, but is particularly effective on the Dagobah scenes in Elstree Studios, and the location scenes in Norway.\n\nILM's visual effects were outstanding, and rightly won an Academy Award. The crew consisted of the following: Oscar winning A New Hope veteran Richard Edlund, working with British effects supervisor Brian Johnson (who had just won an Oscar for Alien), effects photographer Dennis Muren (who would become an award winning and digital effects pioneer for ILM for ET, Return of the Jedi, Indiana Jones and the Temple of Doom, Innerspace, The Abyss, T2 and Jurassic Park) and compositor Bruce Nicholson, who would go on to win an Oscar for his work on Raiders of the Lost Ark, and work on a wide variety of films in Hollywood. George Lucas took a strong interest and influence in the special effects and also has to take credit for some of the excellent sequences in the film, which also work because they help drive the story along.\n\nAgain, like a New Hope, sound work was first rate and Oscar winning. In most cases the sound has to be recorded in a studio and added many months after filming has been completed. Sound re-recordist Bill Varney would win another Oscar for Raiders of the Lost Ark. Steve Maslow and Gregg Landaker also worked as sound-recordists and are both prolific contributors to many high profile movies. They would also win Oscars for their work on Raiders and then some fourteen years later win again for their work on the Keanu Reeves hit movie Speed. Peter Sutton won for his on\u2013set work and has a large body of work in film since this movie. Also credit has to go the Ben Burtt's sound design work, which creates a fabulous sound-scape for the film.\n\nHowever, despite the above outstanding technical contributions, which serve to enhance and exciting and interesting story, it is composer John Williams who, yet again, takes this film to another level with another astounding musical score. Working with the director and producers, Williams develops and expands original themes. He creates a new and unforgettable theme for Darth Vader, with strong militaristic overtones, and clever themes for Leia and Han, and for Yoda. He weaves the score into the film expertly, giving moments of tension, excitement, thoughtfulness, mystery and tragedy with aplomb. The score feels more operatic than a New Hope, and helps cement this as one of the best adventure/fantasy films ever made.\n\nCongratulations to Mr Lucas for delivering a remarkable sequel, but also to Gary Kurtz and Irvin Kershner for having the courage to push everyone out of their comfort zones so as to reach this level of excellence.",
+        "trailer": "https://www.youtube.com/embed/JNwNXF9Y6kY",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,641,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 14,
+        "title": "Inception",
+        "release": "2010",
+        "genre": [
+            {
+                "genre": "Action",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Sci-Fi",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "I saw Memento very recently, something that turned out to be a great miss.I saw it again, just to make a couple of thins straight-and i'll definitely do the same with Inception.\n\nChristopher Nolan keeps improving himself, with even more complex and multilayer script like this.And i thought Memento was hard to reach by most of the viewers, but no.Inception will keep you mesmerized and captivated by the genius, that's hidden behind it.And not just directors and screenwriters (or with other words-Nolan), but with acting and sound-and effects and editing as well.\n\nWhen you have a cast like this-i mean Leonardo DiCaprio, Joseph Gordon-Lewitt, Michael Caine, or Marion Cotillard (a personal favourite), the movie just keeps going flawlessly.Most of the crew is the same the Nolan brothers worked with on TDK and earlier in Batman Begins.So the Oscar noms in those categories are a certainty for me.\n\nThe only thing one could have against the movie, is the headache one could have.See, most of my friends go to the movies for brainless action, they enjoyed Iron Man 2 and The A-Team, but this movie-you have to see it at least twice, to understand it.The levels and the layers on which thing are happening are so many, that one surely'll miss something vital.This is a reason for not fitting to the mass audience, but i hope that won't happen, because Nolan is one of my favourite directors/writers, and he showed, that the brainless action flicks aren't all of it.There are still movies like Inception out there and still people like the Nolans to make those movies, so it's not all lost.And i hope this movie could show the audience that the story is still important for the experience one could receive, not the endless, constant explosions.Because this is really a one of a lifetime event.\n\nSaying that, i must say, that in a world full of remakes, reboots, sequels, prequels and God knows what, this is a unique chance to see something different and unmatched so far-a strong movie, that, surely will be Nolan's latest masterpiece! My Grade won't change-it's the same for all Nolan movies-sheer 10!",
+        "trailer": "https://www.youtube.com/embed/8hP9D6kZseM",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 15,
+        "title": "The Lord of the Rings: The Two Towers",
+        "release": "2002",
+        "genre": [
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Fantasy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Every great adventure story worth telling has a solid hero - someone who puts others before themselves and uses their talents to do their best at keeping the forces of evil at bay even if it means the loss of life and limb. At its core, this movie has eight such heroes and each one lives up to the call. From Pippin and Merry, the lost hobbits who aid the Ents in battle, to Gandalf, Aragorn, Gimli and Legolas who held back the hordes at Helms Deep to Frodo and Samwise who continue to make their dangerous and arduous trek to Mount Doom. All of these characters are heroes and they're played with love, respect and meaning.\n\nThough the acting in this film was top notch throughout, I found myself amazed by Gollum's (motion captured body and voice by Andy Serkis) overall performance. Though obviously CGI, there was so much emotion in this character that I couldn't help believe he was real! Though \"Final Fantasy\" was the only movie that created the most realistic CGI characters that dominated an entire film, Gollum is lightyears ahead with the simple fact that this deformed li'l hobbit seemed human. He had the spark of life behind those eyes that the FF \"cast\" lacked.\n\nAs a film, this movie has it all - action, drama, comedy - but none of it would've worked without characters we cared about, villains we despised and heroes we cheered for. With the obvious success of the first two installments, the release of the final film next December may prove this to be THE BEST trilogy ever made!",
+        "trailer": "https://www.youtube.com/embed/LbfMDwc4azU",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,684,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 16,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "release": "1975",
+        "genre": [
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Czech director Milos Forman seems to be obsessed with rebellious characters that don't like to go with the flow. Just think about Larry Flynt in \"The People vs. Larry Flynt\" or Andy Kaufman in \"Man on the Moon\", in the two most recent movies of Forman. The central character in \"One Flew Over the Cuckoo's Nest\" played by Jack Nicholson is also one of those characters, that wants to break the routine and even starts a revolt against the staff and nurse Ratchett in particular, in a mental institution.\n\nThe movie is perhaps more comedy and entertainment than heavy drama. Still that doesn't mean that the movie isn't filled with some powerful emotional sequences. The tension between the patients and the staff gets more and more notable and grows throughout the movie, which eventually leads to a 'wonderful' ending which I'm not going to spoil.\n\nYes, Jack Nicholson is truly splendid in his role and it seemed like he was improvising all his lines and actions during the entire movie. It was a really Oscar worthy performances, which he also received. Another Oscar winner for her performance was Louise Fletcher, which in my opinion is a bit too much credit. She plays her role well but nothing more than that. She did not deeply impressed me or anything. This movie also marks the debut for some today well known actors such as Danny DeVito (he looked so young and different!), Christopher Lloyd and Brad Dourif, who also received an Oscar nomination.\n\nReally one of those movies that you must have seen at least once in your life.\n\n9/10",
+        "trailer": "https://www.youtube.com/embed/2WSyJgydTsA",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 17,
+        "title": "Goodfellas",
+        "release": "1990",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Needs to be seen to be believed; in one word: perfection. Every frame, every voice-over, every song - it all comes together at the exact right moment to create the perfect film experience. This film makes you really understand and feel what makes the American mafia so compelling; in the eyes of a kid, who was unfortunate enough to grow up in a tough neighborhood, those gangsters are rock stars. Live fast, die young - but when you die, it ain't gonna be of a glamorous suicide or drug overdose - the ending will be brutal, ugly and sad. And it may very well be one of your best friends that will blow your brains out.\n\nI'll never get tired of watching Goodfellas; the entertainment value of this film is just amazing. It doesn't happen very often that every person involved in the process of making a film is at the peak of his/her game. And rarely do art and entertainment come together the way they did here. Storytelling with impeccable pacing, this is what it's like when a master composer conducts his masterpiece. All hail the king; the most versatile and talented filmmaker of his generation: Martin Scorsese.",
+        "trailer": "https://www.youtube.com/embed/qo5jJpHtI1Y",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX667_CR0,0,667,999_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 18,
+        "title": "The Matrix",
+        "release": "1999",
+        "genre": [
+            {
+                "genre": "Action",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Sci-Fi",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "The film is as well crafted as the matrix itself! On another level entirely to any other science fiction film from the last 20 years . Getting lost in another world, is interly what Cinema is made for. This one takes you into a whole new universe interly .",
+        "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 19,
+        "title": "Seven Samurai",
+        "release": "1954",
+        "genre": [
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This is my favorite Kurosawa film, the man was a true master of the cinematic arts. If you have never seen a Kurosawa film definetly make this your first. Though extremely long at about 3 1/2 hours it is well worth the time spent.\n\nTo quickly summarize, a poor Japanese village hires 7 Samurai to protect it from being raided by bandits. Don't get me wrong there is way more to it than that, I just dont want to give anything away. This is an intense and emotional movie that hooks you from the first scene and keeps you on the line till it is all over. The battle scene at the end is in true Kurosawa form. The acting is outstanding by everyone involved from the main characters all the way down to the very last extra. Of course the best way to see any film, especially a Kurosawa film is on the big screen if you are able to. Beautifully filmed, in black and white, anyone familiar with Kurosawa's work has to wonder visually how much more gorgeous it could have been had Kurosawa had the option of color in 1954.\n\nThe camera use is brilliant and every scene is balanced visually. This film is also the first one to use \"the wipe\" as a way of changing from one scene to another. This technique was later used by George Lucas in his Star Wars movies. I would also recommend the DVD version that has the commentary option by the Japanese cinema expert if anyone is interested in a deeper understanding of the \"hows\" and \"whys\" of Kurosawa's film making. Any man, woman, boy or girl who just wants to see a really, really great movie, THIS IS THE ONE! An A+++ in my book.",
+        "trailer": "https://www.youtube.com/embed/wJ1TOratCTo",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODdlYjU1Y2MtMWUxMy00YjJjLTgyMWItNzgzZmZkNTYxNWFkXkEyXkFqcGdeQXVyMTAwMjU1MzA2._V1_SX647_CR0,0,647,999_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 20,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "release": "1977",
+        "genre": [
+            {
+                "genre": "Action",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Fantasy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "George Lucas's Star Wars Episode IV was released in 1977 and became an instant hit with both people and critics. It didn't just become an instant hit, Star Wars Episode IV revolutionised cinema.\n\nAlmost everything about Star Wars is iconic. John Williams's musical score is still to this day one of the best movie scores of all time, the creative and unforgettable special and sound effects, the title crawl, the flawless world-building, and the perfect cast. Mark Hamill plays the soon to be hero whose characters gets remarkably developed throughout the film, Harrison Ford plays a charismatic smuggler with charming personality, Carrie Fisher plays the alluring princess Leia, Sir Alec Guinness skilfully portrays Obi Wan Kenobi and of course James Earl Jones creates one of the most memorable vocal performances of all time with his portrayal of Darth Vader.\n\nMy only real flaw with Star Wars is that its story is a bit too full of subplots but, despite that, every single scene is rich in detail, characters development and well written dialogue ultimately leading up to an epic conclusion.\n\nTaking everything into account, Star Wars is a fantasy epic that will always be remembered as one of cinemas greatest feats.\n\nFinal Grade - 9/10",
+        "trailer": "https://www.youtube.com/embed/vZ734NWnAHA",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 21,
+        "title": "City of God",
+        "release": "2002",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "I have seen this movie only recently (2005) and it's easily one of the better foreign films I have seen. Actually, it's probably just about one of the best films I had ever seen.\n\nThe characters really make this movie come alive with each of their compelling personalities shining though in the backdrop of oppressive conditions and constant violence. One thing which clearly comes to mind is \"Lil' Dice's\" ear to ear smile - so vivid and yet so ironic since he personifies pure evil.\n\nThe City of God is a world you don't want to visit, it won't be featured on a post card, and it's said to be the city ignored by god himself. This movie makes you feel uncomfortable, puts you on the edge of your seat -- you are right into the middle of the City and you too are caught up in it's violent temptation. More importantly, it's about the triumph of the human spirit against all odds.\n\nThis movie in effect is fast paced and hard to follow (with the added stress of subtitles over Portuguese), but it's worth it; and in fact really adds to the impetuous and impulsive undertones of the movie. In addition, the quintessential Brazilian music blending into the film like a well made Caprahina makes it feel authentic like the Italian music in the God Father.\n\nYou see the flaws of these men played out in an almost fatalistic nature -- hated, greed, futility; and in it all we see ourselves, our own flaws, and our own condition.",
+        "trailer": "https://www.youtube.com/embed/dcUOO4Itgmw",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 22,
+        "title": "Se7en",
+        "release": "1995",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Mystery",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "David Fincher's bleak, relentless, and ultimately terrifying crime thriller Seven transcends other films of the genre with incredible plotting (the sort Hitchcock might employ were he alive and making films in the 1990s) and scalding intelligence. With only a small handful of minor flaws -- the overly familiar retiring cop/young cop pairing; the awful \"I'm taking you off the case!\" cliche seemingly required by the genre; one giant lapse in logic in the downward spiral toward the conclusion that cannot be revealed without ruining the script's gruesome surprise -- Seven typically keeps its viewers imprisoned in their seats with a combination of morbid fascination and abject fear. Despite attempts by studio executives to alter Andrew Kevin Walker's ending, the filmmaking team prevailed and audiences experienced that rare treat of mainstream cinema: an uncompromising vision.",
+        "trailer": "https://www.youtube.com/embed/znmZoVkCjpI",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 23,
+        "title": "The Silence of the Lambs",
+        "release": "1991",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Thriller",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This is definitely a film that proves you don't need tons of blood and gore to have a good suspense film. Anthony Hopkins performance as the deranged genius Lecter earned him a well deserved Academy Award and the same was true of Jodie Foster's performance as Clarice Starling. This film should go down in history as one of the greatest suspense films in the history of cinema.",
+        "trailer": "https://www.youtube.com/embed/W6Mm8Sbe__o",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 24,
+        "title": "It's a Wonderful Life",
+        "release": "1946",
+        "genre": [
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Family",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Fantasy",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This film has become a Christmas tradition in my family. We watch it every year and never tire of it. Frank Capra is a master of creating films with a message that reinforce strong values. This is probably his greatest film in that regard. Both he and Stewart have publicly stated that this is their favorite film.\n\nThe message in this film is one of courage and sacrifice for the greater good as George Bailey, a man with big ideas about seeing the world, continually forsakes his own desires to do what is right for the town. The second message is that each life important. No matter how insignificant we feel we are, we are all inextricably linked to each other and play an important part in the fabric of one another's lives.\n\nCapra's direction is brilliant. His genius is bringing human stories to life in a ways that not only make a point, but that totally involve the audience in the lives of the characters. He is always extremely optimistic about the human condition. He is known for testing his characters with overwhelming adversity to make them struggle to triumph in a way that causes the world to change and the character to grow. For this reason his films were always crowd pleasers and this film was the best of all in that regard.\n\nLed by Capra's understanding hand, the actors all did a magnificent job. Stewart's wide-eyed enthusiasm and boyish charm, coupled with an unbending strength of character made him the perfect folk hero. Donna Reed was lovely and charming and attained the right balance between being supportive and inspirational. The romantic chemistry between her and Stewart was subtle and charming. Lionel Barrymore was towering as the greedy old skinflint who was trying to take over the town. Thomas Mitchell plays one of my favorite characters, as the bumbling Uncle Billy in probably his most memorable role.\n\nThis film is number eleven on AFI's list of best films of the century. It was nominated for five academy awards and won none. It was swept in 1947 by `The Best Years of Our Lives', a great film that won seven Oscars that year but in my opinion was the lesser film. History has corrected that minor injustice by rendering `It's a Wonderful Life' an enduring classic that is viewed and loved by generation after generation. Of course, I rated it a 10/10. I can't wait to see it again this Christmas.",
+        "trailer": "https://www.youtube.com/embed/wAtE1cGb1BM",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 25,
+        "title": "Life Is Beautiful",
+        "release": "1997",
+        "genre": [
+            {
+                "genre": "Comedy",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "War",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This may be one of the best films ever made. I've never seen a movie with such a balance of hysterical comedy and serious drama. Roberto Benigni totally deserved his Oscars. People on this site have said such negative things about him and this film. Mr. Benigni had a lot of guts to make this film, and there's not another film like it. He handled both the comedy and drama aspects beautifully. I loved the beautiful cinematography, scenery, and the characters. This movie is magnificent in every way. Don't miss it!",
+        "trailer": "https://www.youtube.com/embed/pAYEQP8gx3w",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 26,
+        "title": "The Usual Suspects",
+        "release": "1995",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Mystery",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "If plagiarism were a crime in film techniques, director Bryan Singer would be imprisoned for life. Screenwriter Christopher McQuarrie would be serving a similar sentence. However, since it is not, Singer and MacQuarrie (who have joined forces again after the not-so-successful PUBLIC ACCESS) took advantage and duplicated nothing but the best. From CASABLANCA to PULP FICTION, and even a version of a line (intentionally or otherwise) from BUTCH CASSIDY AND THE SUNDANCE KID.\n\nMany people oppose watching a film with a twist a second time. I disagree. By watching it again you can observe how the director and the screenwriter have hidden and revealed clues, how they have tried to steer the audience away from the ending. First time is for entertainment. Second time is for art. This film is certainly worthwhile to see again. To date, I have watched it five times. (Two of those five times I thought, 'well, I'll just watch about half-an-hour,' but ended up watching the entire film because it is so entertaining.) I'm not exactly a noir fan, so it is assured that this particular crime film appeals to a wider audience.\n\nTHE USUAL SUSPECTS has a skilled director, an engrossing screenplay, and ten praiseworthy performances. The film runs a fast 105 minutes. Don't miss a minute of it.",
+        "trailer": "https://www.youtube.com/embed/oiXdPolca5w",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 27,
+        "title": "L\u00e9on: The Professional",
+        "release": "1994",
+        "genre": [
+            {
+                "genre": "Crime",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Thriller",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "Beautiful movie with violence and professionalism, action and sexual tension, cool characters and amazing character development.\n\nAm I a cliche if I utter: 'They don't make it like this anymore?'",
+        "trailer": "https://www.youtube.com/embed/aNQqoExfQsg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,710,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 28,
+        "title": "Saving Private Ryan",
+        "release": "1998",
+        "genre": [
+            {
+                "genre": "Drama",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "War",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "During the Normandy landings during WW2 two brothers are killed. In another part of the world another of the Ryan brothers is killed in action, leaving their mother with one remaining son and three telegrams due to be delivered. A group of men, led by Captain Miller set out to reach Private Ryan and not only break him the news but to safely return him for return to the US.\n\nWhat can I say \u0096 it is an excellent film despite some minor flaws. The plot is based on a real life situation during WW2 and allows for us to follow a group of men as they take part in the horrors (and humanity) of war. This is the film's strength and it is never stronger than in the first 25 minutes and, to a lesser extent, the final 20 minutes. The opening of the Normandy landing is simply pure emotional power and is really well done \u0096 it is so powerful that the actual plot itself is a bit of a letdown. I love Band of Brothers because the focus was on the war and what it was like to be involved rather than a sort of soap opera story. Here the plot is still very good but can't really follow that opening.\n\nIt also sinks into sentiment a tad too often. For example Ryan's mother lives in this sort of Norman Rockwell painting that is Spielberg's vision of middle America. Also there is a little too much use of gawkish dialogue as well \u0096 although it's hard to criticise the death scenes for being emotional, because they should be.\n\nA minor flaw that is easy to get over is the lack of Brits. Like Band of Brothers (which had a few cockney accents) this is an AMERICAN film \u0096 so of course they will focus on the American experience. However it would have been nice to have some British (or any other) voices or faces among the Allies. I can understand why the film opens and closes with the stars and stripes and why the film focuses on the yanks but a little bit of perspective would be useful. There's nothing wrong with focus \u0096 but when it totally excludes huge bits of information then it's a problem. It always makes me think of the way that Michael Caine took his children back to the UK when they were taught in an US school that WW2 started in the 1940's (ie \u0096 when America joined).\n\nHowever this is a minor flaw as, in fairness, it's an American film \u0096 why be surprised when it's focus is Americans! Of the cast Hanks is good \u0096 he is much more subtle than his Oscar roles where he played to the crowd. He benefits from having a great support cast of good actors, current actors, old faces, up and comers etc. Sizemore, Burns and Farina are the good current actors. Damon, Ribsi, Diesel, Martini etc are all very good on the way up \u0096 although Damon has one of the simplest characters. They may all be slight stereotypes of Americans but it's not a major flaw \u0096 just a screen writer wanting to cover all bases I think, although it does grate that they cover all these backgrounds but can't squeeze any other Allies in to the edges.\n\nOverall it is excellent despite some stereotyping, US flag waving and the usual Spielberg love of sentimentality. Even if the actual plot is flimsy Spielberg expertly puts us as close to experiencing the horrors and the humanity within war as I hope we'll ever be.",
+        "trailer": "https://www.youtube.com/embed/zwhP5b4tD6g",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+        "deleted": false
+    },
+    {
+        "id": 29,
+        "title": "Spirited Away",
+        "release": "2001",
+        "genre": [
+            {
+                "genre": "Animation",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Adventure",
+                "marked_as_deleted": false
+            },
+            {
+                "genre": "Family",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "'Spirited Away' is the first Miyazaki I have seen, but from this stupendous film I can tell he is a master storyteller. A hallmark of a good storyteller is making the audience empathise or pull them into the shoes of the central character. Miyazaki does this brilliantly in 'Spirited Away'. During the first fifteen minutes we have no idea what is going on. Neither does the main character Chihiro. We discover the world as Chihiro does and it's truly amazing to watch. But Miyazaki doesn't seem to treat this world as something amazing. The world is filmed just like our workaday world would. The inhabitants of the world go about their daily business as usual as full with apathy as us normal folks. Places and buildings are not greeted by towering establishing shots and majestic music. The fact that this place is amazing doesn't seem to concern Miyazaki.\n\nWhat do however, are the characters. Miyazaki lingers upon the characters as if they were actors. He infixes his animated actors with such subtleties that I have never seen, even from animation giants Pixar. Twenty minutes into this film and I completely forgot these were animated characters; I started to care for them like they were living and breathing. Miyazaki treats the modest achievements of Chihiro with unashamed bombast. The uplifting scene where she cleanses the River God is accompanied by stirring music and is as exciting as watching gladiatorial combatants fight. Of course, by giving the audience developed characters to care about, the action and conflicts will always be more exciting, terrifying and uplifting than normal, generic action scenes.\n\nThrough Chihiro, Miyazaki is clearly (but non-patronisingly) talking to youth of Japan. There's a certain sense of revile about the youth of Japan at the moment. Many people consider them to be ill-mannered and baring no respect for their elders or their forefathers. They are simply bi-products of their material world and consumerism. 'Spirited Away' taps into this. At the start Chihiro is a selfish, spoiled, whiny brat. But as she plunges deeper into the spirit world, she becomes more independent, more assured, more respectful and learns some manners. No Face, a black figure with a white mask, is the catalyst behind Chihiro's transformation. Once he is let into the bathhouse, we are no longer tourists \u0096 the story propels forth. Watching No Face prey on the greed of the workers is a terrifying delight. The three main characters in Miyazaki's youth allegory are Chihiro, No Face and B\u00f4. All of these characters are disconnected with their world. They are lonely, misunderstood and largely ignored. But when they go on their journey together, they united and become stronger individuals.\n\nMiyazaki also talks about the ecology of Japan. What was once a beautiful; grassland has now turned into the Asian New York. That The Last Samurai had to be filmed in New Zealand to get a turn of the century Japanese look speaks volumes. The River God sequence is an unsubtle but unpretentious commentary on pollution. While these two themes are very much current in Japan, they are also universal themes \u0096 which makes 'Spirited Away' a universal story that most of us can connect with. I'm willing to bet everyone reading this has at some time seen bicycles lying on a lake bed or have had a child talk to them disrespectfully. Sure these themes aren't advanced philosophy. They are everyday issues told in an inventive, fun way.\n\nThe animation is wonderful, if not as smooth as Disney's works \u0096 but there's something superior to that. 'Spirited Away's imperfect, but detailed world is far more fascinating than the perfected blandest of Disney's latest offerings. The animators successfully balanced the tight-rope between not-enough animation on characters and too much animation on characters. No Ralph Balski ADD antics here! The film is full of vivid images \u0096 both beautiful and horrifying. The line between those two extremes is crossed over seamlessly. From Chihiro and Haku running through an opening flower field to Haku's dragon snarling with a bloody mouth, both extremes seem to belong in the film. It's also excellently done with the characters. Kamaji can be seen as a scary, daunting figure at the beginning, but soon he seamlessly changes into a humble, wise figure. Yubaba also seems to be able to turn from kind to witch with the snap of a finger.\n\nThe sound on the film was expertly done. The sounds perfectly match the on screen actions and objects. My sub woofer got a wonderful workout when Haku swoops Chihiro past the bridge at the beginning. And while I don't speak Japanese, I think the voice actors did a wonderful job of conveying their personality and emotions true their voice. Joe Hisaishi's music is sublime, definitely one of my favourite scores. His main piano theme is simple and evocative. His thunderous action music hits the viewers on the chest like a hammer. Like all great scores it heightens the greatness of a scene about three times. The score, unlike many American composers', is unobtrusive. It plays excellently with the scenes, but never overbears them. A lot of the time the it is barely noticeable, a sole piano plays softly in the background evoking a dreamlike/lullaby quality.\n\n'Spirited Away' is a simply a modern masterpiece, easily one of the Top 10 films of the new millennium. It works on a multitude of levels; a social commentary on Japan, a homage to ancient Japanese/Russian mythology, a moral film for both children and adults. But most importantly, it is a simple story brilliantly told by a great filmmaker who appears to be at the top of his game. 'Spirited Away' works much like a relaxing journey. Pop in the DVD; leave this world for two hours and when you will be almost certainly enriched and ready to take the trip again.",
+        "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmU5OTQ0OWQtOTY0OS00Yjg4LWE1NDYtNDRhYWMxYWY4OTMwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
+        "deleted": false
+    },
+    {
+        "id": 30,
+        "title": "Once Upon a Time in the West",
+        "release": "1968",
+        "genre": [
+            {
+                "genre": "Western",
+                "marked_as_deleted": false
+            }
+        ],
+        "review": "This one only gets better with each viewing. Leone's masterful storytelling and Morricone's crazy, beautiful, epic soundtrack; desperate, haunted faces which look like the barren landscapes the story is set in and a plot that unfolds with impeccable pacing to culminate in THE ultimate western finale.\n\nAs in Leone's previous films, music isn't just used to add to the atmosphere but is essential to the story, or perhaps even more: Morricone's main musical theme plays the actual role of a (or rather: the) protagonist in the film.\n\nAnyone who thought that the so called \"Spaghetti westerns\" were nothing but cheap, violent B-movies had to reconsider after seeing this film. It doesn't get any better than this: this is movie history; iconic, classic, unforgettable, epic. For this film, I just run out of superlatives.\n\nMy vote: 10 out of 10",
+        "trailer": "https://www.youtube.com/embed/MNGQ1hUyx-k",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTVhNzQ1ZmQtZDY4Ny00ODgwLWIwZTUtODhmOTY3NTQ2MWQ5XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+        "deleted": false
+    }
+]

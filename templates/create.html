@@ -1,0 +1,102 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+    <script type="text/javascript" src="{{ url_for('static', filename = 'create.js') }}"></script>
+
+    <div class="row px-4">
+        <div class="col-md-12 text-center bg-light p-4">
+            <header class="h1 p-3">
+                Create New Review
+            </header>
+        </div>
+    </div>
+
+    <form class="container" id="movie-form">
+        <div class="row">
+            <div class="col-md-12">
+                * Format requirements: All the fields can not be empty or contain only spaces, release must be a
+                4 digit number, trailer and poster must be a valid http(s) link
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-md-12">
+                <input class="form-control" id="title" placeholder="Title of the movie" required pattern=".*\S+.*">
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-md-12">
+                <textarea class="form-control" id="review" rows="16" placeholder="Movie review"
+                          required pattern=".*\S+.*"></textarea>
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-md-3">
+                <input class="form-control" id="release" placeholder="Release year, in YYYY format" required pattern="\d{4}">
+            </div>
+            <div class="col-md-9">
+                <input class="form-control" id="genre" placeholder="Genres of the movie, separate with commas"
+                       required pattern=".*\S+.*">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <input class="form-control" id="trailer" placeholder="Movie trailer, enter a embedded youtube link"
+                       required pattern="https?://.+">
+            </div>
+        </div>
+        <div class="row pb-1">
+            <div class="col-md-12 text-muted">
+                <small>
+                    For example: https://www.youtube.com/embed/CwXOrWvPBPk where CwXOrWvPBPk is the ID of the video
+                </small>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <input class="form-control" id="poster" placeholder="Movie poster, enter a image link"
+                       required pattern="https?://.+">
+            </div>
+        </div>
+        <div class="row pb-1">
+            <div class="col-md-12 text-muted">
+                <small>
+                    For example: https://test69981.s3.amazonaws.com/e0f.jpg
+                </small>
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-md-12">
+                <button class="btn btn-primary" id="submit" type="submit" data-toggle="modal">Submit</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Modal -->
+    <div class="modal fade" id="redirect-choice" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Redirect</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    New item successfully created. Would you like to view it now or write another review?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="refresh-create">Write another</button>
+                    <button type="button" class="btn btn-primary" id="view-new-entry">View it now</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
